@@ -1,0 +1,18 @@
+---
+title: "Git and GitHub Working Notes"
+author: "Charles Wu"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 工作紀錄
+
+2016/12/30 在github上建立vcsNotes目錄(https://github.com/cwwu88/vcsNotes)。
+
+2016/12/31 從vcnNotes下拉至Charles-PC上。
+
+2016/12/31 加上此檔，在push上去。
