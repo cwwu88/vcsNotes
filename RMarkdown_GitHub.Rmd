@@ -2,10 +2,7 @@
 title: "RMarkdown for GitHub"
 author: "武季蔚"
 date: "2019/5/15"
-output: 
-  html_document: 
-    fig_caption: yes
-    keep_md: yes
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
