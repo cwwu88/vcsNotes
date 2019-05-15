@@ -18,3 +18,5 @@ knitr::opts_chunk$set(echo = TRUE)
 2016/12/31 加上此檔，在push上去。
 
 2016/12/31 再從Charles-Note pull建立相同vcsNotes local repository
+
+2019/05/15 遺憾很久沒用版本控制。加油！
